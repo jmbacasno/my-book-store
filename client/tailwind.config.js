@@ -13,7 +13,7 @@ export default {
         'favorite': '#FF5841',
       },
       fontFamily: {
-        'primary': ['Monserrat', 'sans-serif'],
+        'primary': ['Montserrat', 'sans-serif'],
         'secondary': ['Nunito Sans', 'sans-serif'],
       }
     }
