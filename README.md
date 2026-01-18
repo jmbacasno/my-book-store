@@ -1,2 +1,2 @@
 # My Book Store
-A function book store MERN application.
+A functional book store MERN application.
